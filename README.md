@@ -1,2 +1,2 @@
 # Geologist
-project for class c24
+Geologist Project
